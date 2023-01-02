@@ -56,6 +56,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
+![eig](output.png)
 
 # RESULT:
 
